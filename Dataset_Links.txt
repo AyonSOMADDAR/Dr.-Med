@@ -1,0 +1,7 @@
+#Datasets Links
+https://github.com/amberkakkar01/Health-Care-Chatbot/blob/main/intents.json
+https://www.kaggle.com/datasets/rohitadnaik/chatbot-symptom-description/data
+https://www.kaggle.com/datasets/tusharkhete/dataset-for-medicalrelated-chatbots
+https://www.shaip.com/resources/sample-datasets/#:~:text=A%20set%20of%20formatted%20clinical%20documents%20as%20dictated%20by%20the%20physicians%20to%20train%20medical%20AI%20models.
+https://www.johnsnowlabs.com/product-category/health                                                     (a good mrdical dataset site)
+
